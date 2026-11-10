@@ -1,4 +1,14 @@
+# 生成脚本只在本机用，不进仓库
+tools/
+# 生成物和缓存
+宣传片/
+__pycache__/
+*.pyc
 node_modules/
+*.log
+# 本机和编辑器的文件
+.claude/
+.DS_Store
 playwright-report/
 test-results/
 .playwright-cli/
