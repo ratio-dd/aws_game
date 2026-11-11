@@ -1,0 +1,360 @@
+{
+  "before": [
+    {
+      "lang": "en",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 1,
+      "client": 460,
+      "scroll": 639,
+      "columns": "310.922px 310.547px",
+      "players": [
+        {
+          "name": "韩叔",
+          "role": "ai",
+          "cash": 1640,
+          "pos": 20,
+          "val": 3560
+        },
+        {
+          "name": "虫虫",
+          "role": "legacy",
+          "cash": 1180,
+          "pos": 41,
+          "val": 3200
+        },
+        {
+          "name": "Damo",
+          "role": "data",
+          "cash": 2010,
+          "pos": 25,
+          "val": 3890
+        },
+        {
+          "name": "Yuki",
+          "role": "game",
+          "cash": 420,
+          "pos": 14,
+          "val": 2060
+        }
+      ],
+      "url": "http://127.0.0.1:18880",
+      "boxes": [
+        {
+          "width": 309,
+          "scroll": 309
+        },
+        {
+          "width": 309,
+          "scroll": 309
+        },
+        {
+          "width": 309,
+          "scroll": 309
+        },
+        {
+          "width": 309,
+          "scroll": 309
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 1,
+      "client": 460,
+      "scroll": 603,
+      "columns": "298.219px 287.172px",
+      "players": [
+        {
+          "name": "韩叔",
+          "role": "ai",
+          "cash": 1640,
+          "pos": 20,
+          "val": 3560
+        },
+        {
+          "name": "虫虫",
+          "role": "legacy",
+          "cash": 1180,
+          "pos": 41,
+          "val": 3200
+        },
+        {
+          "name": "Damo",
+          "role": "data",
+          "cash": 2010,
+          "pos": 25,
+          "val": 3890
+        },
+        {
+          "name": "Yuki",
+          "role": "game",
+          "cash": 420,
+          "pos": 14,
+          "val": 2060
+        }
+      ],
+      "url": "http://127.0.0.1:18880",
+      "boxes": [
+        {
+          "width": 296,
+          "scroll": 296
+        },
+        {
+          "width": 285,
+          "scroll": 285
+        },
+        {
+          "width": 296,
+          "scroll": 296
+        },
+        {
+          "width": 285,
+          "scroll": 285
+        }
+      ]
+    },
+    {
+      "lang": "zh-CN",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 1,
+      "client": 460,
+      "scroll": 460,
+      "columns": "221px 221px",
+      "players": [
+        {
+          "name": "韩叔",
+          "role": "ai",
+          "cash": 1640,
+          "pos": 20,
+          "val": 3560
+        },
+        {
+          "name": "虫虫",
+          "role": "legacy",
+          "cash": 1180,
+          "pos": 41,
+          "val": 3200
+        },
+        {
+          "name": "Damo",
+          "role": "data",
+          "cash": 2010,
+          "pos": 25,
+          "val": 3890
+        },
+        {
+          "name": "Yuki",
+          "role": "game",
+          "cash": 420,
+          "pos": 14,
+          "val": 2060
+        }
+      ],
+      "url": "http://127.0.0.1:18880",
+      "boxes": [
+        {
+          "width": 219,
+          "scroll": 219
+        },
+        {
+          "width": 219,
+          "scroll": 219
+        },
+        {
+          "width": 219,
+          "scroll": 219
+        },
+        {
+          "width": 219,
+          "scroll": 219
+        }
+      ]
+    }
+  ],
+  "after": [
+    {
+      "lang": "en",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 1,
+      "client": 460,
+      "scroll": 460,
+      "columns": "221px 221px",
+      "players": [
+        {
+          "name": "韩叔",
+          "role": "ai",
+          "cash": 1640,
+          "pos": 20,
+          "val": 3560
+        },
+        {
+          "name": "虫虫",
+          "role": "legacy",
+          "cash": 1180,
+          "pos": 41,
+          "val": 3200
+        },
+        {
+          "name": "Damo",
+          "role": "data",
+          "cash": 2010,
+          "pos": 25,
+          "val": 3890
+        },
+        {
+          "name": "Yuki",
+          "role": "game",
+          "cash": 420,
+          "pos": 14,
+          "val": 2060
+        }
+      ],
+      "url": "http://127.0.0.1:18879",
+      "boxes": [
+        {
+          "width": 219,
+          "scroll": 219
+        },
+        {
+          "width": 219,
+          "scroll": 219
+        },
+        {
+          "width": 219,
+          "scroll": 219
+        },
+        {
+          "width": 219,
+          "scroll": 219
+        }
+      ]
+    },
+    {
+      "lang": "ja",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 1,
+      "client": 460,
+      "scroll": 460,
+      "columns": "221px 221px",
+      "players": [
+        {
+          "name": "韩叔",
+          "role": "ai",
+          "cash": 1640,
+          "pos": 20,
+          "val": 3560
+        },
+        {
+          "name": "虫虫",
+          "role": "legacy",
+          "cash": 1180,
+          "pos": 41,
+          "val": 3200
+        },
+        {
+          "name": "Damo",
+          "role": "data",
+          "cash": 2010,
+          "pos": 25,
+          "val": 3890
+        },
+        {
+          "name": "Yuki",
+          "role": "game",
+          "cash": 420,
+          "pos": 14,
+          "val": 2060
+        }
+      ],
+      "url": "http://127.0.0.1:18879",
+      "boxes": [
+        {
+          "width": 219,
+          "scroll": 219
+        },
+        {
+          "width": 219,
+          "scroll": 219
+        },
+        {
+          "width": 219,
+          "scroll": 219
+        },
+        {
+          "width": 219,
+          "scroll": 219
+        }
+      ]
+    },
+    {
+      "lang": "zh-CN",
+      "width": 1920,
+      "height": 1080,
+      "dpr": 1,
+      "client": 460,
+      "scroll": 460,
+      "columns": "221px 221px",
+      "players": [
+        {
+          "name": "韩叔",
+          "role": "ai",
+          "cash": 1640,
+          "pos": 20,
+          "val": 3560
+        },
+        {
+          "name": "虫虫",
+          "role": "legacy",
+          "cash": 1180,
+          "pos": 41,
+          "val": 3200
+        },
+        {
+          "name": "Damo",
+          "role": "data",
+          "cash": 2010,
+          "pos": 25,
+          "val": 3890
+        },
+        {
+          "name": "Yuki",
+          "role": "game",
+          "cash": 420,
+          "pos": 14,
+          "val": 2060
+        }
+      ],
+      "url": "http://127.0.0.1:18879",
+      "boxes": [
+        {
+          "width": 219,
+          "scroll": 219
+        },
+        {
+          "width": 219,
+          "scroll": 219
+        },
+        {
+          "width": 219,
+          "scroll": 219
+        },
+        {
+          "width": 219,
+          "scroll": 219
+        }
+      ]
+    }
+  ],
+  "baseline": "9f75e2867c498b81b646a0afb31f85f43a04ec00",
+  "head": "7a9f7dbd819018a961e810bb39fc90c6ec318218",
+  "branch": "codex/fix-player-card-overflow",
+  "source": "本地模拟中盘 ?demo=board，固定随机种子42，初始语言zh",
+  "runtime": "Playwright bundled Chromium, 独立会话 player-card-overflow",
+  "issue": "https://github.com/cloudsmithy/aws_game/issues/16"
+}
