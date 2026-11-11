@@ -1,0 +1,856 @@
+[
+  {
+    "name": "cloudwatch-before",
+    "box": {
+      "bottom": 855,
+      "height": 810,
+      "left": 420,
+      "right": 1020,
+      "top": 45,
+      "width": 600,
+      "x": 420,
+      "y": 45
+    },
+    "buttons": [
+      {
+        "rect": {
+          "bottom": 838,
+          "height": 32,
+          "left": 777.703125,
+          "right": 910,
+          "top": 806,
+          "width": 132.296875,
+          "x": 777.703125,
+          "y": 806
+        },
+        "text": "按需购买 $150"
+      },
+      {
+        "rect": {
+          "bottom": 838,
+          "height": 32,
+          "left": 918,
+          "right": 984,
+          "top": 806,
+          "width": 66,
+          "x": 918,
+          "y": 806
+        },
+        "text": "不买"
+      }
+    ],
+    "intro": {
+      "bottom": 330.1875,
+      "height": 106.1875,
+      "left": 458,
+      "right": 967,
+      "top": 224,
+      "width": 509,
+      "x": 458,
+      "y": 224
+    },
+    "overflow": 0,
+    "text": "是什么监控和可观测性：收集指标、日志和事件，设告警、做仪表板，告警可以通知人，也能触发 Auto Scaling 自动扩容。\n\n常用来盯 CPU、错误率和延迟，出事自动告警\n\n在图鉴里看 CloudWatch：升级路线、过路费、高可用 →",
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    },
+    "bitmapScale": {
+      "x": 1.0,
+      "y": 1.0
+    }
+  },
+  {
+    "name": "cloudwatch-after",
+    "box": {
+      "bottom": 855,
+      "height": 810,
+      "left": 420,
+      "right": 1020,
+      "top": 45,
+      "width": 600,
+      "x": 420,
+      "y": 45
+    },
+    "buttons": [
+      {
+        "rect": {
+          "bottom": 838,
+          "height": 32,
+          "left": 777.703125,
+          "right": 910,
+          "top": 806,
+          "width": 132.296875,
+          "x": 777.703125,
+          "y": 806
+        },
+        "text": "按需购买 $150"
+      },
+      {
+        "rect": {
+          "bottom": 838,
+          "height": 32,
+          "left": 918,
+          "right": 984,
+          "top": 806,
+          "width": 66,
+          "x": 918,
+          "y": 806
+        },
+        "text": "不买"
+      }
+    ],
+    "intro": {
+      "bottom": 374.78125,
+      "height": 150.78125,
+      "left": 458,
+      "right": 967,
+      "top": 224,
+      "width": 509,
+      "x": 458,
+      "y": 224
+    },
+    "overflow": 0,
+    "text": "是什么监控和可观测性：收集指标、日志和事件，设告警、做仪表板，告警可以通知人，也能触发 Auto Scaling 自动扩容。\n\n常用来盯 CPU、错误率和延迟，出事自动告警\n\n游戏中万能服务：能补上架构缺的一块，或并入已齐架构收过路费；需手动绑定，通常不能改绑。\n\n在图鉴里看 CloudWatch：升级路线、过路费、高可用 →",
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    },
+    "bitmapScale": {
+      "x": 1.0,
+      "y": 1.0
+    }
+  },
+  {
+    "name": "kms-before",
+    "box": {
+      "bottom": 855,
+      "height": 810,
+      "left": 420,
+      "right": 1020,
+      "top": 45,
+      "width": 600,
+      "x": 420,
+      "y": 45
+    },
+    "buttons": [
+      {
+        "rect": {
+          "bottom": 838,
+          "height": 32,
+          "left": 774.953125,
+          "right": 910,
+          "top": 806,
+          "width": 135.046875,
+          "x": 774.953125,
+          "y": 806
+        },
+        "text": "按需购买 $400"
+      },
+      {
+        "rect": {
+          "bottom": 838,
+          "height": 32,
+          "left": 918,
+          "right": 984,
+          "top": 806,
+          "width": 66,
+          "x": 918,
+          "y": 806
+        },
+        "text": "不买"
+      }
+    ],
+    "intro": {
+      "bottom": 330.1875,
+      "height": 106.1875,
+      "left": 458,
+      "right": 967,
+      "top": 224,
+      "width": 509,
+      "x": 458,
+      "y": 224
+    },
+    "overflow": 0,
+    "text": "是什么托管的密钥管理：创建和管理加密密钥，S3、EBS、RDS 等服务用它加密数据，密钥不会以明文离开 KMS，每次使用都有 CloudTrail 记录。\n\n常用来静态数据加密、控制谁能解密数据\n\n在图鉴里看 KMS：升级路线、过路费、高可用 →",
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    },
+    "bitmapScale": {
+      "x": 1.0,
+      "y": 1.0
+    }
+  },
+  {
+    "name": "kms-after",
+    "box": {
+      "bottom": 855,
+      "height": 810,
+      "left": 420,
+      "right": 1020,
+      "top": 45,
+      "width": 600,
+      "x": 420,
+      "y": 45
+    },
+    "buttons": [
+      {
+        "rect": {
+          "bottom": 838,
+          "height": 32,
+          "left": 774.953125,
+          "right": 910,
+          "top": 806,
+          "width": 135.046875,
+          "x": 774.953125,
+          "y": 806
+        },
+        "text": "按需购买 $400"
+      },
+      {
+        "rect": {
+          "bottom": 838,
+          "height": 32,
+          "left": 918,
+          "right": 984,
+          "top": 806,
+          "width": 66,
+          "x": 918,
+          "y": 806
+        },
+        "text": "不买"
+      }
+    ],
+    "intro": {
+      "bottom": 398.578125,
+      "height": 174.578125,
+      "left": 458,
+      "right": 967,
+      "top": 224,
+      "width": 509,
+      "x": 458,
+      "y": 224
+    },
+    "overflow": 0,
+    "text": "是什么托管的密钥管理：创建和管理加密密钥，S3、EBS、RDS 等服务用它加密数据，密钥不会以明文离开 KMS，每次使用都有 CloudTrail 记录。\n\n常用来静态数据加密、控制谁能解密数据\n\n游戏中万能服务：能补上架构缺的一块，或并入已齐架构收过路费；需手动绑定，通常不能改绑。\n\n限制只能绑定含存储或数据库服务的架构。\n\n在图鉴里看 KMS：升级路线、过路费、高可用 →",
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    },
+    "bitmapScale": {
+      "x": 1.0,
+      "y": 1.0
+    }
+  },
+  {
+    "name": "vpc-before",
+    "box": {
+      "bottom": 855,
+      "height": 810,
+      "left": 420,
+      "right": 1020,
+      "top": 45,
+      "width": 600,
+      "x": 420,
+      "y": 45
+    },
+    "buttons": [
+      {
+        "rect": {
+          "bottom": 838,
+          "height": 32,
+          "left": 777.375,
+          "right": 910,
+          "top": 806,
+          "width": 132.625,
+          "x": 777.375,
+          "y": 806
+        },
+        "text": "按需购买 $140"
+      },
+      {
+        "rect": {
+          "bottom": 838,
+          "height": 32,
+          "left": 918,
+          "right": 984,
+          "top": 806,
+          "width": 66,
+          "x": 918,
+          "y": 806
+        },
+        "text": "不买"
+      }
+    ],
+    "intro": {
+      "bottom": 330.1875,
+      "height": 106.1875,
+      "left": 458,
+      "right": 967,
+      "top": 224,
+      "width": 509,
+      "x": 458,
+      "y": 224
+    },
+    "overflow": 0,
+    "text": "是什么你在云上的私有网络：自己划网段、子网、路由表和安全组，决定哪些资源能访问公网。VPC 本身不收费。\n\n常用来把对外的负载均衡放公有子网，应用和数据库放私有子网\n\n在图鉴里看 VPC：升级路线、过路费、高可用 →",
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    },
+    "bitmapScale": {
+      "x": 1.0,
+      "y": 1.0
+    }
+  },
+  {
+    "name": "vpc-after",
+    "box": {
+      "bottom": 855,
+      "height": 810,
+      "left": 420,
+      "right": 1020,
+      "top": 45,
+      "width": 600,
+      "x": 420,
+      "y": 45
+    },
+    "buttons": [
+      {
+        "rect": {
+          "bottom": 838,
+          "height": 32,
+          "left": 777.375,
+          "right": 910,
+          "top": 806,
+          "width": 132.625,
+          "x": 777.375,
+          "y": 806
+        },
+        "text": "按需购买 $140"
+      },
+      {
+        "rect": {
+          "bottom": 838,
+          "height": 32,
+          "left": 918,
+          "right": 984,
+          "top": 806,
+          "width": 66,
+          "x": 918,
+          "y": 806
+        },
+        "text": "不买"
+      }
+    ],
+    "intro": {
+      "bottom": 398.578125,
+      "height": 174.578125,
+      "left": 458,
+      "right": 967,
+      "top": 224,
+      "width": 509,
+      "x": 458,
+      "y": 224
+    },
+    "overflow": 0,
+    "text": "是什么你在云上的私有网络：自己划网段、子网、路由表和安全组，决定哪些资源能访问公网。VPC 本身不收费。\n\n常用来把对外的负载均衡放公有子网，应用和数据库放私有子网\n\n游戏中万能服务：能补上架构缺的一块，或并入已齐架构收过路费；需手动绑定，通常不能改绑。\n\n限制只能绑定含可接入 VPC 的服务的架构。\n\n在图鉴里看 VPC：升级路线、过路费、高可用 →",
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    },
+    "bitmapScale": {
+      "x": 1.0,
+      "y": 1.0
+    }
+  },
+  {
+    "name": "cloudtrail-after",
+    "box": {
+      "bottom": 855,
+      "height": 810,
+      "left": 420,
+      "right": 1020,
+      "top": 45,
+      "width": 600,
+      "x": 420,
+      "y": 45
+    },
+    "buttons": [
+      {
+        "rect": {
+          "bottom": 838,
+          "height": 32,
+          "left": 777.703125,
+          "right": 910,
+          "top": 806,
+          "width": 132.296875,
+          "x": 777.703125,
+          "y": 806
+        },
+        "text": "按需购买 $150"
+      },
+      {
+        "rect": {
+          "bottom": 838,
+          "height": 32,
+          "left": 918,
+          "right": 984,
+          "top": 806,
+          "width": 66,
+          "x": 918,
+          "y": 806
+        },
+        "text": "不买"
+      }
+    ],
+    "intro": {
+      "bottom": 374.78125,
+      "height": 150.78125,
+      "left": 458,
+      "right": 967,
+      "top": 224,
+      "width": 509,
+      "x": 458,
+      "y": 224
+    },
+    "overflow": 0,
+    "text": "是什么记录账户里的 API 调用：谁在什么时间、从哪里、做了什么操作。控制台默认能查最近 90 天的管理事件；建跟踪可以长期存进 S3。\n\n常用来安全审计、查清楚是谁删了资源\n\n游戏中万能服务：能补上架构缺的一块，或并入已齐架构收过路费；需手动绑定，通常不能改绑。\n\n在图鉴里看 CloudTrail：升级路线、过路费、高可用 →",
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    },
+    "bitmapScale": {
+      "x": 1.0,
+      "y": 1.0
+    }
+  },
+  {
+    "name": "config-after",
+    "box": {
+      "bottom": 855,
+      "height": 810,
+      "left": 420,
+      "right": 1020,
+      "top": 45,
+      "width": 600,
+      "x": 420,
+      "y": 45
+    },
+    "buttons": [
+      {
+        "rect": {
+          "bottom": 838,
+          "height": 32,
+          "left": 777.703125,
+          "right": 910,
+          "top": 806,
+          "width": 132.296875,
+          "x": 777.703125,
+          "y": 806
+        },
+        "text": "按需购买 $150"
+      },
+      {
+        "rect": {
+          "bottom": 838,
+          "height": 32,
+          "left": 918,
+          "right": 984,
+          "top": 806,
+          "width": 66,
+          "x": 918,
+          "y": 806
+        },
+        "text": "不买"
+      }
+    ],
+    "intro": {
+      "bottom": 395.578125,
+      "height": 171.578125,
+      "left": 458,
+      "right": 967,
+      "top": 224,
+      "width": 509,
+      "x": 458,
+      "y": 224
+    },
+    "overflow": 0,
+    "text": "是什么配置记录和合规检查：持续记录账户里每个资源的配置和变更历史，用规则检查合不合规（比如 S3 桶有没有公开、EBS 卷有没有加密），不合规的可以自动修正。\n\n常用来合规审计、查清楚是谁把配置改坏了、自动把公开的 S3 桶改回私有\n\n游戏中万能服务：能补上架构缺的一块，或并入已齐架构收过路费；需手动绑定，通常不能改绑。\n\n在图鉴里看 Config：升级路线、过路费、高可用 →",
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    },
+    "bitmapScale": {
+      "x": 1.0,
+      "y": 1.0
+    }
+  },
+  {
+    "name": "vpc-after-en",
+    "box": {
+      "bottom": 855,
+      "height": 810,
+      "left": 420,
+      "right": 1020,
+      "top": 45,
+      "width": 600,
+      "x": 420,
+      "y": 45
+    },
+    "buttons": [
+      {
+        "rect": {
+          "bottom": 838,
+          "height": 32,
+          "left": 681.09375,
+          "right": 870.90625,
+          "top": 806,
+          "width": 189.8125,
+          "x": 681.09375,
+          "y": 806
+        },
+        "text": "Buy On-Demand $140"
+      },
+      {
+        "rect": {
+          "bottom": 838,
+          "height": 32,
+          "left": 878.90625,
+          "right": 984,
+          "top": 806,
+          "width": 105.09375,
+          "x": 878.90625,
+          "y": 806
+        },
+        "text": "Don't buy"
+      }
+    ],
+    "intro": {
+      "bottom": 440.171875,
+      "height": 216.171875,
+      "left": 458,
+      "right": 967,
+      "top": 224,
+      "width": 509,
+      "x": 458,
+      "y": 224
+    },
+    "overflow": 0,
+    "text": "What it isYour private network in the cloud: you define the CIDR range, subnets, route tables and security groups, and decide which resources can reach the internet. The VPC itself is free.\n\nOften used forPut the public-facing load balancer in a public subnet, and the application and database in private subnets\n\nIn gameWildcard: fill one missing architecture slot, or join a complete architecture for joint rent. Bind manually after purchase; normally permanent.\n\nLimitOnly architectures containing a service that can connect to a VPC.\n\nSee VPC in the Gallery: upgrade path, rent, high availability →",
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    },
+    "bitmapScale": {
+      "x": 1.0,
+      "y": 1.0
+    }
+  },
+  {
+    "name": "vpc-after-ja",
+    "box": {
+      "bottom": 855,
+      "height": 810,
+      "left": 420,
+      "right": 1020,
+      "top": 45,
+      "width": 600,
+      "x": 420,
+      "y": 45
+    },
+    "buttons": [
+      {
+        "rect": {
+          "bottom": 838,
+          "height": 32,
+          "left": 665.375,
+          "right": 868,
+          "top": 806,
+          "width": 202.625,
+          "x": 665.375,
+          "y": 806
+        },
+        "text": "オンデマンドで購入 $140"
+      },
+      {
+        "rect": {
+          "bottom": 838,
+          "height": 32,
+          "left": 876,
+          "right": 984,
+          "top": 806,
+          "width": 108,
+          "x": 876,
+          "y": 806
+        },
+        "text": "購入しない"
+      }
+    ],
+    "intro": {
+      "bottom": 468.171875,
+      "height": 216.171875,
+      "left": 458,
+      "right": 967,
+      "top": 252,
+      "width": 509,
+      "x": 458,
+      "y": 252
+    },
+    "overflow": 0,
+    "text": "概要クラウド上のプライベートネットワーク：IP アドレス範囲、サブネット、ルートテーブル、セキュリティグループを自分で設定し、どのリソースがインターネットにアクセスできるかを決めます。VPC 自体は無料です。\n\n主な用途外部向けのロードバランサーはパブリックサブネットに、アプリケーションとデータベースはプライベートサブネットに配置\n\nゲーム内ワイルドカード：不足1枠を補完、または完成済み構成に追加して通行料をまとめます。手動で紐づけ、通常は変更不可。\n\n制限VPC に接続できるサービスを含む構成のみ。\n\n図鑑で VPC を見る：アップグレードパス、通行料、高可用性 →",
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    },
+    "bitmapScale": {
+      "x": 1.0,
+      "y": 1.0
+    }
+  },
+  {
+    "name": "reseller-bound-after",
+    "box": {
+      "bottom": 855,
+      "height": 810,
+      "left": 420,
+      "right": 1020,
+      "top": 45,
+      "width": 600,
+      "x": 420,
+      "y": 45
+    },
+    "buttons": [
+      {
+        "rect": {
+          "bottom": 838,
+          "height": 32,
+          "left": 659,
+          "right": 840,
+          "top": 806,
+          "width": 181,
+          "x": 659,
+          "y": 806
+        },
+        "text": "从 虫虫 手里买下 $135"
+      },
+      {
+        "rect": {
+          "bottom": 838,
+          "height": 32,
+          "left": 848,
+          "right": 984,
+          "top": 806,
+          "width": 136,
+          "x": 848,
+          "y": 806
+        },
+        "text": "不买，照常结算"
+      }
+    ],
+    "intro": {
+      "bottom": 353.984375,
+      "height": 129.984375,
+      "left": 458,
+      "right": 967,
+      "top": 224,
+      "width": 509,
+      "x": 458,
+      "y": 224
+    },
+    "overflow": 0,
+    "text": "是什么监控和可观测性：收集指标、日志和事件，设告警、做仪表板，告警可以通知人，也能触发 Auto Scaling 自动扩容。\n\n常用来盯 CPU、错误率和延迟，出事自动告警\n\n游戏中这块万能服务已绑定过；买下后原绑定失效，不能重新绑定。\n\n在图鉴里看 CloudWatch：升级路线、过路费、高可用 →",
+    "viewport": {
+      "height": 900,
+      "width": 1440
+    },
+    "bitmapScale": {
+      "x": 1.0,
+      "y": 1.0
+    }
+  },
+  {
+    "name": "cloudwatch-after-mobile",
+    "box": {
+      "bottom": 793.359375,
+      "height": 742.71875,
+      "left": 16,
+      "right": 359,
+      "top": 50.640625,
+      "width": 343,
+      "x": 16,
+      "y": 50.640625
+    },
+    "buttons": [
+      {
+        "rect": {
+          "bottom": 776.359375,
+          "height": 32,
+          "left": 116.703125,
+          "right": 249,
+          "top": 744.359375,
+          "width": 132.296875,
+          "x": 116.703125,
+          "y": 744.359375
+        },
+        "text": "按需购买 $150"
+      },
+      {
+        "rect": {
+          "bottom": 776.359375,
+          "height": 32,
+          "left": 257,
+          "right": 323,
+          "top": 744.359375,
+          "width": 66,
+          "x": 257,
+          "y": 744.359375
+        },
+        "text": "不买"
+      }
+    ],
+    "intro": {
+      "bottom": 483.609375,
+      "height": 233.96875,
+      "left": 48,
+      "right": 312,
+      "top": 249.640625,
+      "width": 264,
+      "x": 48,
+      "y": 249.640625
+    },
+    "overflow": -15,
+    "text": "是什么监控和可观测性：收集指标、日志和事件，设告警、做仪表板，告警可以通知人，也能触发 Auto Scaling 自动扩容。\n\n常用来盯 CPU、错误率和延迟，出事自动告警\n\n游戏中万能服务：能补上架构缺的一块，或并入已齐架构收过路费；需手动绑定，通常不能改绑。\n\n在图鉴里看 CloudWatch：升级路线、过路费、高可用 →",
+    "viewport": {
+      "height": 844,
+      "width": 390
+    },
+    "bitmapScale": {
+      "x": 0.9615384615384616,
+      "y": 0.9620853080568721
+    }
+  },
+  {
+    "name": "vpc-after-ja-mobile",
+    "box": {
+      "bottom": 793.359375,
+      "height": 742.71875,
+      "left": 16,
+      "right": 359,
+      "top": 50.640625,
+      "width": 343,
+      "x": 16,
+      "y": 50.640625
+    },
+    "buttons": [
+      {
+        "rect": {
+          "bottom": 721.359375,
+          "height": 32,
+          "left": 120.375,
+          "right": 323,
+          "top": 689.359375,
+          "width": 202.625,
+          "x": 120.375,
+          "y": 689.359375
+        },
+        "text": "オンデマンドで購入 $140"
+      },
+      {
+        "rect": {
+          "bottom": 761.359375,
+          "height": 32,
+          "left": 215,
+          "right": 323,
+          "top": 729.359375,
+          "width": 108,
+          "x": 215,
+          "y": 729.359375
+        },
+        "text": "購入しない"
+      }
+    ],
+    "intro": {
+      "bottom": 710.984375,
+      "height": 403.34375,
+      "left": 48,
+      "right": 312,
+      "top": 307.640625,
+      "width": 264,
+      "x": 48,
+      "y": 307.640625
+    },
+    "overflow": -15,
+    "text": "概要クラウド上のプライベートネットワーク：IP アドレス範囲、サブネット、ルートテーブル、セキュリティグループを自分で設定し、どのリソースがインターネットにアクセスできるかを決めます。VPC 自体は無料です。\n\n主な用途外部向けのロードバランサーはパブリックサブネットに、アプリケーションとデータベースはプライベートサブネットに配置\n\nゲーム内ワイルドカード：不足1枠を補完、または完成済み構成に追加して通行料をまとめます。手動で紐づけ、通常は変更不可。\n\n制限VPC に接続できるサービスを含む構成のみ。\n\n図鑑で VPC を見る：アップグレードパス、通行料、高可用性 →",
+    "viewport": {
+      "height": 844,
+      "width": 390
+    },
+    "bitmapScale": {
+      "x": 0.9615384615384616,
+      "y": 0.9620853080568721
+    }
+  },
+  {
+    "name": "vpc-after-ja-mobile-scrolled",
+    "box": {
+      "bottom": 793.359375,
+      "height": 742.71875,
+      "left": 16,
+      "right": 359,
+      "top": 50.640625,
+      "width": 343,
+      "x": 16,
+      "y": 50.640625
+    },
+    "buttons": [
+      {
+        "rect": {
+          "bottom": 721.359375,
+          "height": 32,
+          "left": 120.375,
+          "right": 323,
+          "top": 689.359375,
+          "width": 202.625,
+          "x": 120.375,
+          "y": 689.359375
+        },
+        "text": "オンデマンドで購入 $140"
+      },
+      {
+        "rect": {
+          "bottom": 761.359375,
+          "height": 32,
+          "left": 215,
+          "right": 323,
+          "top": 729.359375,
+          "width": 108,
+          "x": 215,
+          "y": 729.359375
+        },
+        "text": "購入しない"
+      }
+    ],
+    "intro": {
+      "bottom": 609.984375,
+      "height": 403.34375,
+      "left": 48,
+      "right": 312,
+      "top": 206.640625,
+      "width": 264,
+      "x": 48,
+      "y": 206.640625
+    },
+    "overflow": -15,
+    "text": "概要クラウド上のプライベートネットワーク：IP アドレス範囲、サブネット、ルートテーブル、セキュリティグループを自分で設定し、どのリソースがインターネットにアクセスできるかを決めます。VPC 自体は無料です。\n\n主な用途外部向けのロードバランサーはパブリックサブネットに、アプリケーションとデータベースはプライベートサブネットに配置\n\nゲーム内ワイルドカード：不足1枠を補完、または完成済み構成に追加して通行料をまとめます。手動で紐づけ、通常は変更不可。\n\n制限VPC に接続できるサービスを含む構成のみ。\n\n図鑑で VPC を見る：アップグレードパス、通行料、高可用性 →",
+    "viewport": {
+      "height": 844,
+      "width": 390
+    },
+    "bitmapScale": {
+      "x": 0.9615384615384616,
+      "y": 0.9620853080568721
+    }
+  }
+]
