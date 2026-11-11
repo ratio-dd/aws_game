@@ -1,0 +1,403 @@
+{
+  "baseline": "9f75e28",
+  "fixture": "Fixed demo seed 7531; guide overrides only mode/DLC/role. Mobile asset modal scrolled within its content to show the entire EC2 row.",
+  "captures": [
+    {
+      "name": "01-tour-before",
+      "pageOverflow": 0,
+      "rects": [
+        {
+          "rect": {
+            "bottom": 548.96875,
+            "height": 151.15625,
+            "left": 416.953125,
+            "right": 746.953125,
+            "top": 397.8125,
+            "width": 330,
+            "x": 416.953125,
+            "y": 397.8125
+          },
+          "text": "掷骰子前后都能做：加容量、去掉升级或容量、缺钱时把服务下线周转、卖回亚马逊云科技、和别人交易（升级要落在自己那块服务上才能做）。「专属技能」平时是灰的，总资产低于开局资金一半才能点，一局一次；「SP / RI」要手上有交运行费的计算类、数据库类服务才能点。花总资产 4%（最低 $50）抽 re:Invent 卡的按钮在「这回合还能做什么」里，每回合一次。"
+        }
+      ],
+      "viewport": {
+        "height": 900,
+        "width": 1440
+      }
+    },
+    {
+      "name": "01-tour-after",
+      "pageOverflow": 0,
+      "rects": [
+        {
+          "rect": {
+            "bottom": 548.375,
+            "height": 129.5625,
+            "left": 416.953125,
+            "right": 746.953125,
+            "top": 418.8125,
+            "width": 330,
+            "x": 416.953125,
+            "y": 418.8125
+          },
+          "text": "掷骰子前后都能做：加容量、去掉升级或容量、缺钱时把服务下线周转、卖回亚马逊云科技、和别人交易（升级要落在自己那块服务上才能做）。「专属技能」平时是灰的，总资产低于开局资金一半才能点，一局一次。花总资产 4%（最低 $50）抽 re:Invent 卡的按钮在「这回合还能做什么」里，每回合一次。"
+        }
+      ],
+      "viewport": {
+        "height": 900,
+        "width": 1440
+      }
+    },
+    {
+      "name": "01-tour-en-after",
+      "pageOverflow": 0,
+      "rects": [
+        {
+          "rect": {
+            "bottom": 546.640625,
+            "height": 215.9375,
+            "left": 416.953125,
+            "right": 746.953125,
+            "top": 330.703125,
+            "width": 330,
+            "x": 416.953125,
+            "y": 330.703125
+          },
+          "text": "Available before and after you roll: add capacity, remove an upgrade or capacity, take services offline for cash when you're short,  sell back to Amazon Web Services, and trade with others (upgrades can only be made when you land on a service you own). “Signature skill” is grayed out normally; you can only click it when net worth is below half your starting cash, once per game. The button to draw a re:Invent card for 4% of net worth (minimum $50) is under “What can I still do this turn”, once per turn. "
+        }
+      ],
+      "viewport": {
+        "height": 900,
+        "width": 1440
+      }
+    },
+    {
+      "name": "01-tour-ja-after",
+      "pageOverflow": 0,
+      "rects": [
+        {
+          "rect": {
+            "bottom": 549.640625,
+            "height": 215.9375,
+            "left": 416.953125,
+            "right": 746.953125,
+            "top": 333.703125,
+            "width": 330,
+            "x": 416.953125,
+            "y": 333.703125
+          },
+          "text": "サイコロを振る前でも後でもできます：キャパシティの追加、アップグレードやキャパシティの取り外し、資金が足りないときのサービスのオフライン化、Amazon Web Services への売り戻し、ほかの人との取引（アップグレードは自分のサービスに止まったときだけ）。「固有スキル」は普段はグレー表示で、総資産が初期資金の半分未満のときだけ押せます（1 ゲームに 1 回）。総資産の 4%（最低 $50）で re:Invent カードを引くボタンは「このターンにまだできること」の中にあり、1 ターンに 1 回使えます。"
+        }
+      ],
+      "viewport": {
+        "height": 900,
+        "width": 1440
+      }
+    },
+    {
+      "name": "02-offline-before",
+      "pageOverflow": 0,
+      "rects": [
+        {
+          "rect": {
+            "bottom": 421.5,
+            "height": 39,
+            "left": 261,
+            "right": 1179,
+            "top": 382.5,
+            "width": 918,
+            "x": 261,
+            "y": 382.5
+          },
+          "text": "EC2跨 AZ Auto Scaling$20/圈只有落在自己这块服务上才能升级去掉一级 +$50下线 +$138卖回亚马逊云科技 +$220"
+        }
+      ],
+      "viewport": {
+        "height": 900,
+        "width": 1440
+      }
+    },
+    {
+      "name": "02-offline-after",
+      "pageOverflow": 0,
+      "rects": [
+        {
+          "rect": {
+            "bottom": 441.5,
+            "height": 79,
+            "left": 261,
+            "right": 1179,
+            "top": 362.5,
+            "width": 918,
+            "x": 261,
+            "y": 362.5
+          },
+          "text": "EC2跨 AZ Auto Scaling$20/圈只有落在自己这块服务上才能升级去掉一级 +$50下线 +$138卖回亚马逊云科技 +$220至少下线 3 轮；恢复需 $60会先去掉升级和容量（各退一半）"
+        }
+      ],
+      "viewport": {
+        "height": 900,
+        "width": 1440
+      }
+    },
+    {
+      "name": "02-offline-mobile-after",
+      "pageOverflow": -15,
+      "rects": [
+        {
+          "rect": {
+            "bottom": 480.140625,
+            "height": 263,
+            "left": 31,
+            "right": 329,
+            "top": 217.140625,
+            "width": 298,
+            "x": 31,
+            "y": 217.140625
+          },
+          "text": "EC2跨 AZ Auto Scaling$20/圈只有落在自己这块服务上才能升级去掉一级 +$50下线 +$138卖回亚马逊云科技 +$220至少下线 3 轮；恢复需 $60会先去掉升级和容量（各退一半）"
+        }
+      ],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      }
+    },
+    {
+      "name": "02-offline-en-after",
+      "pageOverflow": 0,
+      "rects": [
+        {
+          "rect": {
+            "bottom": 476.5,
+            "height": 109,
+            "left": 261,
+            "right": 1164,
+            "top": 367.5,
+            "width": 903,
+            "x": 261,
+            "y": 367.5
+          },
+          "text": "EC2Cross-AZ Auto Scaling$20/lapYou can only upgrade when you land on your own serviceRemove a level +$50Take offline +$138Sell back to Amazon Web Services +$220Offline for at least 3 rounds; restoring costs $60Upgrades and capacity are removed first (half refunded)"
+        }
+      ],
+      "viewport": {
+        "height": 900,
+        "width": 1440
+      }
+    },
+    {
+      "name": "02-offline-ja-after",
+      "pageOverflow": 0,
+      "rects": [
+        {
+          "rect": {
+            "bottom": 481.5,
+            "height": 115,
+            "left": 261,
+            "right": 1164,
+            "top": 366.5,
+            "width": 903,
+            "x": 261,
+            "y": 366.5
+          },
+          "text": "EC2マルチ AZ Auto Scaling$20/周自分のサービスのマスに止まったときだけアップグレードできます1 レベル外す +$50オフラインにする +$138Amazon Web Services に売り戻す +$220最低 3 ラウンド停止；再開には $60 必要先にアップグレードとキャパシティを取り外します（それぞれ半額返金）"
+        }
+      ],
+      "viewport": {
+        "height": 900,
+        "width": 1440
+      }
+    },
+    {
+      "name": "03-learn-before",
+      "pageOverflow": -15,
+      "rects": [
+        {
+          "rect": {
+            "bottom": 38.25,
+            "height": 24.5,
+            "left": 140.5,
+            "right": 218.5,
+            "top": 13.75,
+            "width": 78,
+            "x": 140.5,
+            "y": 13.75
+          },
+          "text": "回到游戏"
+        }
+      ],
+      "viewport": {
+        "height": 900,
+        "width": 1440
+      }
+    },
+    {
+      "name": "03-learn-after",
+      "pageOverflow": -15,
+      "rects": [
+        {
+          "rect": {
+            "bottom": 38.25,
+            "height": 24.5,
+            "left": 140.5,
+            "right": 330.5,
+            "top": 13.75,
+            "width": 190,
+            "x": 140.5,
+            "y": 13.75
+          },
+          "text": "打开游戏首页（新标签页）"
+        },
+        {
+          "rect": {
+            "bottom": 87.75,
+            "height": 22.75,
+            "left": 140.5,
+            "right": 1284.5,
+            "top": 65,
+            "width": 1144,
+            "x": 140.5,
+            "y": 65
+          },
+          "text": "从对局打开的学习页，可切回原游戏标签继续。"
+        }
+      ],
+      "viewport": {
+        "height": 900,
+        "width": 1440
+      }
+    },
+    {
+      "name": "03-learn-en-after",
+      "pageOverflow": -15,
+      "rects": [
+        {
+          "rect": {
+            "bottom": 38.25,
+            "height": 24.5,
+            "left": 140.5,
+            "right": 310.9375,
+            "top": 13.75,
+            "width": 170.4375,
+            "x": 140.5,
+            "y": 13.75
+          },
+          "text": "Game home (new tab)"
+        },
+        {
+          "rect": {
+            "bottom": 87.75,
+            "height": 22.75,
+            "left": 140.5,
+            "right": 1284.5,
+            "top": 65,
+            "width": 1144,
+            "x": 140.5,
+            "y": 65
+          },
+          "text": "Opened this page from a game? Switch back to the original game tab to continue."
+        }
+      ],
+      "viewport": {
+        "height": 900,
+        "width": 1440
+      }
+    },
+    {
+      "name": "03-learn-ja-after",
+      "pageOverflow": -15,
+      "rects": [
+        {
+          "rect": {
+            "bottom": 38.25,
+            "height": 24.5,
+            "left": 140.5,
+            "right": 357.53125,
+            "top": 13.75,
+            "width": 217.03125,
+            "x": 140.5,
+            "y": 13.75
+          },
+          "text": "ゲームのトップ（新しいタブ）"
+        },
+        {
+          "rect": {
+            "bottom": 87.75,
+            "height": 22.75,
+            "left": 140.5,
+            "right": 1284.5,
+            "top": 65,
+            "width": 1144,
+            "x": 140.5,
+            "y": 65
+          },
+          "text": "対局から開いた場合は、元のゲームタブに切り替えると続けられます。"
+        }
+      ],
+      "viewport": {
+        "height": 900,
+        "width": 1440
+      }
+    },
+    {
+      "name": "03-learn-ja-mobile-after",
+      "pageOverflow": -15,
+      "rects": [
+        {
+          "rect": {
+            "bottom": 38.25,
+            "height": 24.5,
+            "left": 16,
+            "right": 233.03125,
+            "top": 13.75,
+            "width": 217.03125,
+            "x": 16,
+            "y": 13.75
+          },
+          "text": "ゲームのトップ（新しいタブ）"
+        },
+        {
+          "rect": {
+            "bottom": 110.5,
+            "height": 45.5,
+            "left": 16,
+            "right": 359,
+            "top": 65,
+            "width": 343,
+            "x": 16,
+            "y": 65
+          },
+          "text": "対局から開いた場合は、元のゲームタブに切り替えると続けられます。"
+        }
+      ],
+      "viewport": {
+        "height": 844,
+        "width": 390
+      }
+    },
+    {
+      "name": "04-existing-wild-dialog",
+      "pageOverflow": 0,
+      "rects": [
+        {
+          "rect": {
+            "bottom": 623.78125,
+            "height": 347.5625,
+            "left": 420,
+            "right": 1020,
+            "top": 276.21875,
+            "width": 600,
+            "x": 420,
+            "y": 276.21875
+          },
+          "text": "ハンおじさん 用万能服务收起看棋盘万能服务不算进任何架构，但每块能「顶一次」：绑到你的一个架构上，缺一块就补上那一块，已经凑齐的就并进去，别人落在这个架构的任意一块上，它的过路费一起收。绑了不能换。之后把它卖掉、下线或被打下线：补缺的那个架构跟着散；只是并进去的，架构还在。交易给别人以后，它在别人手里不算数，也不能再绑。VPC → 补上「访问日志分析」缺的 AthenaVPC → 补上「静态网站」缺的 CloudFrontVPC → 补上「防勒索备份」缺的 GuardDuty先不用"
+        }
+      ],
+      "viewport": {
+        "height": 900,
+        "width": 1440
+      }
+    }
+  ]
+}
